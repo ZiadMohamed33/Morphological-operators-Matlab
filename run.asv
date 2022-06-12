@@ -1,0 +1,11 @@
+imgD=imread("Cameraman_Bin.jpg");
+resA=dialation(imgD,3);
+resB=dialation(imgD,7);
+
+
+
+[res2A,contA]=erosion(imgD,3);
+[res2B,ContB]=erosion(imgD,7);
+
+Open_Close
+

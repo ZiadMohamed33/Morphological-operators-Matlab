@@ -1,0 +1,3 @@
+part1:gaps ie:black pixels gets smaller or even vanishes so we can say that objects get bigger 
+or magnified which has negative effects on details.
+Part3:the 3*3 makes fingerprints clearer while 7*7 destroys the finger print
